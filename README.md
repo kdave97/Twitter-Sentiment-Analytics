@@ -4,8 +4,10 @@
 The project focuses on processing live data streams using Spark's streaming API. We perform sentiment analysis of the realtime tweets. We also use Apache Kafka to buffer the tweets before processing.
 
 ## Dataset Description
-We will be using the twitter data which can be downloaded from the below link:
+We will be using the twitter data which can be downloaded from the below link: <br>
 https://drive.google.com/open?id=1AXiumYL4lYSitWp3TMQMvGKLMWZnsFPP
+
+The word list for the positive and negative words are given in <b> positive.txt </b> and <b>negative.txt</b>
 
 ## Steps Performed
 * Download the data from the above link and unzip it.
