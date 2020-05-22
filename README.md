@@ -20,3 +20,8 @@ The word list for the positive and negative words are given in <b> positive.txt 
 * Run python <b>twitter_to_kafka.py </b> to stream the tweets and push them to kafka queue
 * Run the stream analysis program <br>
 <b> $SPARK_HOME/bin/spark-submit --packages org.apache.spark:spark-streaming-kafka-0-8_2.11:2.0.0 twitterStream.py </b>
+
+## Results
+Plot of total word counts at each time stamp.
+
+![alt text](https://github.com/kdave97/Twitter-Sentiment-Analytics/blob/master/ans.png)
