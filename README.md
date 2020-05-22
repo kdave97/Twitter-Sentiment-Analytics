@@ -25,3 +25,5 @@ The word list for the positive and negative words are given in <b> positive.txt 
 Plot of total word counts at each time stamp.
 
 ![alt text](https://github.com/kdave97/Twitter-Sentiment-Analytics/blob/master/ans.png)
+
+---- A more detailed explanation about the project is explained in <b>Twitter_Sentiment_Project_Description</b> -----
